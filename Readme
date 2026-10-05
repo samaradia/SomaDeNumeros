@@ -1,0 +1,8 @@
+# Java — Lambda
+
+Exercício desenvolvido durante os estudos de Java, praticando:
+
+- Interfaces funcionais
+- `@FunctionalInterface`
+- Expressões Lambda
+- Implementação de métodos com Lambda
